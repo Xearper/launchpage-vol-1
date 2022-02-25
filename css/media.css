@@ -11,6 +11,21 @@
     }
     }
 
+
+
+
+ @media screen and (max-width: 990px) {
+       
+.s-8-img {
+    margin-bottom: 3rem;
+}
+
+
+
+        }
+
+
+
 @media screen and (max-width: 775px) {
        header .nav-list {
            display: none;
@@ -31,7 +46,53 @@
      padding: 1.2rem 2rem 1.2rem 2rem;
  }
 
+ .nav-whitepaper {
+     border: none;
+     padding: none;
+     
+ }
  
+.shuttle {
+margin: none;
+display: none;
+}
+
+.reset {
+    display: none;
+}
+
+.s-3-img {
+    margin-bottom: 2rem;
+}
+
+.last-whitepaper {
+    display: none;
+}
+
+
+.indir-button {
+    padding: 1rem 1.5rem 1rem 1.5rem;
+}
+
+.s-8-img {
+    
+        margin-bottom: 3rem;
+    
+}
+
+.footer-link {
+    margin-bottom: 1rem;
+    font-size: .7rem;
+}
+
+.hakkimiz-p {
+    margin-bottom: 1rem;
+}
+
+
+.s-3-h1 {
+    font-size: 2rem;
+}
 
 }
 
@@ -40,8 +101,6 @@
         padding: 1.2rem .5rem 1.2rem .5rem;
     }
    
-    .nav-whitepaper {
-        display: block;
-    }
+   
 
    }

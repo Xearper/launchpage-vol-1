@@ -453,6 +453,8 @@ h4 {
 }
 .indir-wrapper {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 // -- /Section 8 -- //
@@ -594,7 +596,7 @@ dl, ol, ul {
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: rgb(138, 138, 138);
+    background: rgb(255, 255, 255);
   }
   
   /* Handle */
